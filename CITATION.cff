@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Bass
+    given-names: Martha
+    orcid: https://orcid.org/0009-0004-0268-5426
+title: "GIS in Food Systems Research"
+# version: 2.0.4
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.1234
+date-released: 2025-11-11
