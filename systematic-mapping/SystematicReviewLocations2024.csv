@@ -1,119 +1,114 @@
-﻿,Author Affiliation,Study Area,Total,Diff
-United States,249,189,438,60
-China,67,82,149,-15
-India,48,50,98,-2
-United Kingdom,47,31,78,16
-Canada,38,30,68,8
-Italy,25,24,49,1
-South Africa,25,19,44,6
-Australia,27,17,44,10
-Indonesia,17,26,43,-9
-Germany,25,10,35,15
-Japan,22,10,32,12
-Thailand,14,14,28,0
-France,19,8,27,11
-Brazil,11,14,25,-3
-Nigeria,8,15,23,-7
-Ethiopia,6,15,21,-9
-Iran,8,13,21,-5
-Spain,9,12,21,-3
-Kenya,5,15,20,-10
-Ghana,7,12,19,-5
-Mexico,7,12,19,-5
-New Zealand,8,11,19,-3
-Poland,9,9,18,0
-Netherlands,13,5,18,8
-Turkey,7,9,16,-2
-Bangladesh,4,10,14,-6
-Pakistan,5,9,14,-4
-Tanzania,3,8,11,-5
-Egypt,4,7,11,-3
-Portugal,3,6,9,-3
-Uganda,3,6,9,-3
-South Korea,5,4,9,1
-Sweden,7,2,9,5
-Switzerland,4,4,8,0
-Ukraine,4,4,8,0
-Czech Republic,5,3,8,2
-Madagascar,1,6,7,-5
-Zimbabwe,2,5,7,-3
-Ecuador,3,4,7,-1
-Romania,3,4,7,-1
-Russia,3,4,7,-1
-Austria,5,2,7,3
-Malaysia,5,2,7,3
-Singapore,5,2,7,3
-Global,0,6,6,-6
-Iraq,2,4,6,-2
-Nepal,2,4,6,-2
-Sudan,2,3,6,-1
-Colombia,3,3,6,0
-Greece,3,3,6,0
-Finland,4,2,6,2
-Slovakia,4,2,6,2
-Belgium,5,1,6,4
-Afghanistan,1,4,5,-3
-Argentina,1,4,5,-3
-Burkina Faso,1,4,5,-3
-Peru,1,4,5,-3
-Denmark,2,3,5,-1
-Republic of Ireland,3,2,5,1
-Vietnam,0,4,4,-4
-Kazakhstan,1,3,4,-2
-Morocco,1,3,4,-2
-Jordan,2,2,4,0
-Sri Lanka,2,2,4,0
-Europe,0,3,3,-3
-Guatemala,0,3,3,-3
-Algeria,1,2,3,-1
-Philippines,1,2,3,-1
-Hungary,2,1,3,1
-Malawi,2,1,3,1
-Norway,2,1,3,1
-Taiwan,2,1,3,1
-Africa,0,2,2,-2
-Burundi,0,2,2,-2
-Democratic Republic of the Congo,0,2,2,-2
-Haiti,0,2,2,-2
-Luxembourg,0,2,2,-2
-Palestinian Authority,0,2,2,-2
-Rwanda,0,2,2,-2
-Syria,0,2,2,-2
-Cameroon,1,1,2,0
-Cape Verde,1,1,2,0
-Chile,1,1,2,0
-Cyprus,1,1,2,0
-Latvia,1,1,2,0
-Mozambique,1,1,2,0
-Slovenia,1,1,2,0
-Vanuatu,1,1,2,0
-Israel,2,0,2,2
-Saudi Arabia,2,0,2,2
-Serbia,2,0,2,2
-Andaman and Nicobar Islands,0,1,1,-1
-Angola,0,1,1,-1
-Belize,0,1,1,-1
-Benin,0,1,1,-1
-Cambodia,0,1,1,-1
-El Salvador,0,1,1,-1
-Eritrea,0,1,1,-1
-Federated States of Micronesia,0,1,1,-1
-Fiji,0,1,1,-1
-Honduras,0,1,1,-1
-Laos,0,1,1,-1
-Lesotho,0,1,1,-1
-Lithuania,0,1,1,-1
-Mali,0,1,1,-1
-Marshall Islands,0,1,1,-1
-Mongolia,0,1,1,-1
-Namibia,0,1,1,-1
-Niger,0,1,1,-1
-North Macedonia,0,1,1,-1
-Réunion,0,1,1,-1
-Scotland,0,1,1,-1
-United Arab Emirates,0,1,1,-1
-Uzbekistan,0,1,1,-1
-Zambia,0,1,1,-1
-Albania,1,0,1,1
-Bolivia,1,0,1,1
-Iceland,1,0,1,1
+﻿Country,Author Affiliation,Study Area,Total,Abbr
+United States,249,189,438,US
+China,69,83,149,CN
+India,48,50,98,IN
+United Kingdom,47,32,79,GB
+Canada,38,30,68,CA
+Italy,25,24,49,IT
+South Africa,25,19,44,ZA
+Australia,27,17,44,AU
+Indonesia,17,26,43,ID
+Germany,25,10,35,DE
+Japan,22,10,32,JP
+Thailand,14,14,28,TH
+France,19,8,27,FR
+Brazil,11,14,25,BR
+Nigeria,8,15,23,NG
+Ethiopia,6,15,21,ET
+Iran,8,13,21,IR
+Spain,9,12,21,ES
+Kenya,5,15,20,KE
+Ghana,7,12,19,GH
+Mexico,7,12,19,MX
+New Zealand,8,11,19,NZ
+Poland,9,9,18,PL
+Netherlands,13,5,18,NL
+Turkey,7,9,16,TR
+Bangladesh,4,10,14,BD
+Pakistan,5,9,14,PK
+Tanzania,3,8,11,TZ
+Egypt,4,7,11,EG
+Portugal,3,6,9,PT
+Uganda,3,6,9,UG
+South Korea,5,4,9,KR
+Sweden,7,2,9,SE
+Switzerland,4,4,8,CH
+Ukraine,4,4,8,UA
+Czech Republic,5,3,8,CZ
+Madagascar,1,6,7,MG
+Zimbabwe,2,5,7,ZW
+Ecuador,3,4,7,EC
+Romania,3,4,7,RO
+Russia,3,4,7,RU
+Austria,5,2,7,AT
+Malaysia,5,2,7,MY
+Singapore,5,2,7,SG
+Iraq,2,4,6,IQ
+Nepal,2,4,6,NP
+Sudan,2,3,6,SD
+Colombia,3,3,6,CO
+Greece,3,3,6,GR
+Finland,4,2,6,FI
+Slovakia,4,2,6,SK
+Belgium,5,1,6,BE
+Afghanistan,1,4,5,AF
+Argentina,1,4,5,AR
+Burkina Faso,1,4,5,BF
+Peru,1,4,5,PE
+Denmark,2,3,5,DK
+Republic of Ireland,3,2,5,IE
+Kazakhstan,1,3,4,KZ
+Morocco,1,3,4,MA
+Jordan,2,2,4,JO
+Sri Lanka,2,2,4,LK
+Vietnam,0,4,4,VN
+Algeria,1,2,3,DZ
+Philippines,1,2,3,PH
+Hungary,2,1,3,HU
+Malawi,2,1,3,MW
+Norway,2,1,3,NO
+Taiwan,2,1,3,TW
+Guatemala,0,3,3,GT
+Cameroon,1,1,2,CM
+Cape Verde,1,1,2,CV
+Chile,1,1,2,CL
+Cyprus,1,1,2,CY
+Latvia,1,1,2,LV
+Mozambique,1,1,2,MZ
+Slovenia,1,1,2,SI
+Vanuatu,1,1,2,VU
+Burundi,0,2,2,BI
+Democratic Republic of the Congo,0,2,2,CD
+Haiti,0,2,2,HT
+Israel,2,0,2,IL
+Luxembourg,0,2,2,LU
+Palestinian Authority,0,2,2,PS
+Rwanda,0,2,2,RW
+Saudi Arabia,2,0,2,SA
+Serbia,2,0,2,RS
+Syria,0,2,2,SY
+Albania,1,0,1,AL
+Angola,0,1,1,AO
+Belize,0,1,1,BZ
+Benin,0,1,1,BJ
+Bolivia,1,0,1,BO
+Cambodia,0,1,1,KH
+El Salvador,0,1,1,SV
+Eritrea,0,1,1,ER
+Federated States of Micronesia,0,1,1,FM
+Fiji,0,1,1,FJ
+Honduras,0,1,1,HN
+Iceland,1,0,1,IS
+Laos,0,1,1,LA
+Lesotho,0,1,1,LS
+Lithuania,0,1,1,LT
+Mali,0,1,1,ML
+Marshall Islands,0,1,1,MH
+Mongolia,0,1,1,MN
+Namibia,0,1,1,NA
+Niger,0,1,1,NE
+North Macedonia,0,1,1,MK
+Réunion,0,1,1,RE
+United Arab Emirates,0,1,1,AE
+Uzbekistan,0,1,1,UZ
+Zambia,0,1,1,ZM
